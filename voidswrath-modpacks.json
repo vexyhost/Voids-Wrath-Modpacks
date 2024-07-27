@@ -6,7 +6,8 @@
       "logo":"https://voidswrath.com/wp-content/uploads/Scramble-Craft-Season-2-Crafting-Chestplate.png",
       "minecraftVersion":"1.16.5",
       "description":"Scramble Craft is a wacky randomizer mod pack, which is all based around the Scramble Craft mod. Rich the developer for the Scramble Craft mod has worked insanely hard to bring the randomizer features to 1.16.4!",
-      "platformUrl":"https://voidswrath.com/modpacks/scramble-craft-2-0/"
+      "platformUrl":"https://voidswrath.com/modpacks/scramble-craft-2-0/",
+      "version": "2.2"
    },
    {
       "id":2,
@@ -15,7 +16,8 @@
       "logo":"https://voidswrath.com/wp-content/uploads/Crazy-Craft-Cody-Vs-Queen-Dragon.png",
       "minecraftVersion":"1.7.10",
       "description":"This mod pack focuses on taking your minecraft knowledge and throwing it out the window. THIS IS CRAZY CRAFT 4.0 BABYYY…okay enough hype.",
-      "platformUrl":"https://voidswrath.com/modpacks/crazy-craft-4-0-official/"
+      "platformUrl":"https://voidswrath.com/modpacks/crazy-craft-4-0-official/",
+      "version": "4.2"
    },
    {
       "id":3,
@@ -24,7 +26,18 @@
       "logo":"https://voidswrath.com/wp-content/uploads/Jurassic-Craft-Cody-Kraken-T-Rex.png",
       "minecraftVersion":"1.12.2",
       "description":"Jurassic Craft 3.0 is a new update of our original dinosaur mod pack. This time it’s in 1.12.2 and your minecraft world is filled with things to do! Rebuild jurassic park or start a zoo.",
-      "platformUrl":"https://voidswrath.com/modpacks/jurassic-craft-3/"
+      "platformUrl":"https://voidswrath.com/modpacks/jurassic-craft-3/",
+      "version": "1.0.0"
+   },
+      {
+      "id":4,
+      "displayName":"Crazy Craft 3.0",
+      "serverPackUrl":"https://vl4.voidswrath.com/release/CrazyCraft%203.zip",
+      "logo":"https://voidswrath.com/wp-content/uploads/%5EB7E0E566869EC042E9071D7941F4D2B780D8D001EBE37F5E35%5Epimgpsh_fullsize_distr.png",
+      "minecraftVersion":"1.7.10",
+      "description":"The Crazy Craft 3.0 Mod Pack is crazier than ever! This modpack focuses around outdoing the perfection of Crazy Craft 2.0! We have some custom mods and custom configs made just for the mod pack!",
+      "platformUrl":"https://voidswrath.com/modpacks/crazy-craft-3-0/",
+      "version": "3.0.3"
    },
    {
       "id":5,
@@ -33,16 +46,8 @@
       "logo":"https://voidswrath.com/wp-content/uploads/Scramble-Craft-Cody-Power-Armor.png",
       "minecraftVersion":"1.12.2",
       "description":"This mod pack focuses around a custom made mod which scrambles up your world. Literally. Recipes, mob drops, portals, fishing, farming…its all scrambled.",
-      "platformUrl":"https://voidswrath.com/modpacks/scramble-craft/"
-   },
-   {
-      "id":4,
-      "displayName":"Crazy Craft 3.0",
-      "serverPackUrl":"https://vl4.voidswrath.com/release/CrazyCraft%203.zip",
-      "logo":"https://voidswrath.com/wp-content/uploads/%5EB7E0E566869EC042E9071D7941F4D2B780D8D001EBE37F5E35%5Epimgpsh_fullsize_distr.png",
-      "minecraftVersion":"1.7.10",
-      "description":"The Crazy Craft 3.0 Mod Pack is crazier than ever! This modpack focuses around outdoing the perfection of Crazy Craft 2.0! We have some custom mods and custom configs made just for the mod pack!",
-      "platformUrl":"https://voidswrath.com/modpacks/crazy-craft-3-0/"
+      "platformUrl":"https://voidswrath.com/modpacks/scramble-craft/",
+      "version": "1.6"
    },
    {
       "id":6,
@@ -51,6 +56,7 @@
       "logo":"https://voidswrath.com/wp-content/uploads/Crazy-Minecraft-Image.png",
       "minecraftVersion":"1.7.10",
       "description":"If you could combine, voids wrath, jurassic craft and crazy craft you would get this beautiful mod pack right here!",
-      "platformUrl":"https://voidswrath.com/modpacks/crazy-minecraft/"
+      "platformUrl":"https://voidswrath.com/modpacks/crazy-minecraft/",
+      "version": "1.1.2"
    }
 ]
